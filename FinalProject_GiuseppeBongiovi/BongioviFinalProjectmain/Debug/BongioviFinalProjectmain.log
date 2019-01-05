@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  BongioviAccount.cpp
+  BongioviBankAccount.cpp
+  BongioviFinalNode.cpp
+  FinalProject_GiuseppeBongiovi.cpp
+c:\users\giuseppe\source\repos\finalproject_giuseppebongiovi\bongiovifinalprojectmain\finalproject_giuseppebongiovi.cpp(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\giuseppe\source\repos\finalproject_giuseppebongiovi\bongiovifinalprojectmain\finalproject_giuseppebongiovi.cpp(111): warning C4018: '<': signed/unsigned mismatch
+c:\users\giuseppe\source\repos\finalproject_giuseppebongiovi\bongiovifinalprojectmain\finalproject_giuseppebongiovi.cpp(134): warning C4018: '<': signed/unsigned mismatch
+c:\users\giuseppe\source\repos\finalproject_giuseppebongiovi\bongiovifinalprojectmain\finalproject_giuseppebongiovi.cpp(168): warning C4018: '<': signed/unsigned mismatch
+  BongioviStockAccount.cpp
+  BongioviStockData.cpp
+  Generating Code...
+  BongioviFinalProjectmain.vcxproj -> C:\Users\Giuseppe\source\repos\FinalProject_GiuseppeBongiovi\Debug\BongioviFinalProjectmain.exe
